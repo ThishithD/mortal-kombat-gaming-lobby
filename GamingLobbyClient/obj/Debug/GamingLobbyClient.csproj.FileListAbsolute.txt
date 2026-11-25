@@ -1,0 +1,135 @@
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\MortalKombatLobby\GamingLobbyClient\bin\Debug\GamingLobbyClient.exe.config
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\MortalKombatLobby\GamingLobbyClient\bin\Debug\GamingLobbyClient.exe
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\MortalKombatLobby\GamingLobbyClient\bin\Debug\GamingLobbyClient.pdb
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\MortalKombatLobby\GamingLobbyClient\bin\Debug\GamingLobbyInterface.dll
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\MortalKombatLobby\GamingLobbyClient\bin\Debug\GamingLobbyInterface.pdb
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\MortalKombatLobby\GamingLobbyClient\obj\Debug\MainWindow.g.cs
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\MortalKombatLobby\GamingLobbyClient\obj\Debug\App.g.cs
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient_MarkupCompile.cache
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient_MarkupCompile.lref
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\MortalKombatLobby\GamingLobbyClient\obj\Debug\MainWindow.baml
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.g.resources
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.Properties.Resources.resources
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLo.4A3FD25D.Up2Date
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.exe
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.pdb
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.exe.config
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\MortalKombatLobby\GamingLobbyClient\obj\Debug\ChatRoomWindow.baml
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\MortalKombatLobby\GamingLobbyClient\obj\Debug\LobbyWindow.baml
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\MortalKombatLobby\GamingLobbyClient\obj\Debug\PrivateChatWindow.baml
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\MortalKombatLobby\GamingLobbyClient\obj\Debug\ChatRoomWindow.g.cs
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\MortalKombatLobby\GamingLobbyClient\obj\Debug\LobbyWindow.g.cs
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\MortalKombatLobby\GamingLobbyClient\obj\Debug\PrivateChatWindow.g.cs
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\MortalKombatLobby\GamingLobbyClient\obj\Debug\FilePreviewWindow.baml
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\MortalKombatLobby\GamingLobbyClient\obj\Debug\FilePreviewWindow.g.cs
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\MortalKombatLobbyFINAL\MortalKombatLobby\GamingLobbyClient\bin\Debug\GamingLobbyClient.exe.config
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\MortalKombatLobbyFINAL\MortalKombatLobby\GamingLobbyClient\bin\Debug\GamingLobbyClient.exe
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\MortalKombatLobbyFINAL\MortalKombatLobby\GamingLobbyClient\bin\Debug\GamingLobbyClient.pdb
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\MortalKombatLobbyFINAL\MortalKombatLobby\GamingLobbyClient\bin\Debug\GamingLobbyInterface.dll
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\MortalKombatLobbyFINAL\MortalKombatLobby\GamingLobbyClient\bin\Debug\GamingLobbyInterface.pdb
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\MortalKombatLobbyFINAL\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.csproj.AssemblyReference.cache
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\MortalKombatLobbyFINAL\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.exe.config
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\MortalKombatLobbyFINAL\MortalKombatLobby\GamingLobbyClient\obj\Debug\ChatRoomWindow.baml
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\MortalKombatLobbyFINAL\MortalKombatLobby\GamingLobbyClient\obj\Debug\FilePreviewWindow.baml
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\MortalKombatLobbyFINAL\MortalKombatLobby\GamingLobbyClient\obj\Debug\LobbyWindow.baml
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\MortalKombatLobbyFINAL\MortalKombatLobby\GamingLobbyClient\obj\Debug\PrivateChatWindow.baml
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\MortalKombatLobbyFINAL\MortalKombatLobby\GamingLobbyClient\obj\Debug\ChatRoomWindow.g.cs
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\MortalKombatLobbyFINAL\MortalKombatLobby\GamingLobbyClient\obj\Debug\FilePreviewWindow.g.cs
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\MortalKombatLobbyFINAL\MortalKombatLobby\GamingLobbyClient\obj\Debug\LobbyWindow.g.cs
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\MortalKombatLobbyFINAL\MortalKombatLobby\GamingLobbyClient\obj\Debug\MainWindow.g.cs
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\MortalKombatLobbyFINAL\MortalKombatLobby\GamingLobbyClient\obj\Debug\PrivateChatWindow.g.cs
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\MortalKombatLobbyFINAL\MortalKombatLobby\GamingLobbyClient\obj\Debug\App.g.cs
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\MortalKombatLobbyFINAL\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient_MarkupCompile.cache
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\MortalKombatLobbyFINAL\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient_MarkupCompile.lref
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\MortalKombatLobbyFINAL\MortalKombatLobby\GamingLobbyClient\obj\Debug\MainWindow.baml
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\MortalKombatLobbyFINAL\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.g.resources
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\MortalKombatLobbyFINAL\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.Properties.Resources.resources
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\MortalKombatLobbyFINAL\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.csproj.GenerateResource.cache
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\MortalKombatLobbyFINAL\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.csproj.CoreCompileInputs.cache
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\MortalKombatLobbyFINAL\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLo.4A3FD25D.Up2Date
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\MortalKombatLobbyFINAL\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.exe
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\MortalKombatLobbyFINAL\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.pdb
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\Grand Finale\MortalKombatLobby\GamingLobbyClient\bin\Debug\GamingLobbyClient.exe.config
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\Grand Finale\MortalKombatLobby\GamingLobbyClient\bin\Debug\GamingLobbyClient.exe
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\Grand Finale\MortalKombatLobby\GamingLobbyClient\bin\Debug\GamingLobbyClient.pdb
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\Grand Finale\MortalKombatLobby\GamingLobbyClient\bin\Debug\GamingLobbyInterface.dll
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\Grand Finale\MortalKombatLobby\GamingLobbyClient\bin\Debug\GamingLobbyInterface.pdb
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\Grand Finale\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\Grand Finale\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.exe.config
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\Grand Finale\MortalKombatLobby\GamingLobbyClient\obj\Debug\ChatRoomWindow.baml
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\Grand Finale\MortalKombatLobby\GamingLobbyClient\obj\Debug\FilePreviewWindow.baml
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\Grand Finale\MortalKombatLobby\GamingLobbyClient\obj\Debug\LobbyWindow.baml
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\Grand Finale\MortalKombatLobby\GamingLobbyClient\obj\Debug\PrivateChatWindow.baml
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\Grand Finale\MortalKombatLobby\GamingLobbyClient\obj\Debug\ChatRoomWindow.g.cs
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\Grand Finale\MortalKombatLobby\GamingLobbyClient\obj\Debug\FilePreviewWindow.g.cs
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\Grand Finale\MortalKombatLobby\GamingLobbyClient\obj\Debug\LobbyWindow.g.cs
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\Grand Finale\MortalKombatLobby\GamingLobbyClient\obj\Debug\MainWindow.g.cs
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\Grand Finale\MortalKombatLobby\GamingLobbyClient\obj\Debug\PrivateChatWindow.g.cs
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\Grand Finale\MortalKombatLobby\GamingLobbyClient\obj\Debug\App.g.cs
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\Grand Finale\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient_MarkupCompile.cache
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\Grand Finale\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient_MarkupCompile.lref
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\Grand Finale\MortalKombatLobby\GamingLobbyClient\obj\Debug\MainWindow.baml
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\Grand Finale\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.g.resources
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\Grand Finale\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.Properties.Resources.resources
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\Grand Finale\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\Grand Finale\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\Grand Finale\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLo.4A3FD25D.Up2Date
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\Grand Finale\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.exe
+C:\Users\Acer\OneDrive\Desktop\CURTIN\SEM 2\COMP3008 Distributed Computing\Assignment\Grand Finale\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.pdb
+C:\Users\THISHITH\Downloads\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\bin\Debug\GamingLobbyClient.exe.config
+C:\Users\THISHITH\Downloads\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\bin\Debug\GamingLobbyClient.exe
+C:\Users\THISHITH\Downloads\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\bin\Debug\GamingLobbyClient.pdb
+C:\Users\THISHITH\Downloads\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\bin\Debug\GamingLobbyInterface.dll
+C:\Users\THISHITH\Downloads\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\bin\Debug\GamingLobbyInterface.pdb
+C:\Users\THISHITH\Downloads\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.csproj.AssemblyReference.cache
+C:\Users\THISHITH\Downloads\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.exe.config
+C:\Users\THISHITH\Downloads\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\ChatRoomWindow.baml
+C:\Users\THISHITH\Downloads\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\FilePreviewWindow.baml
+C:\Users\THISHITH\Downloads\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\LobbyWindow.baml
+C:\Users\THISHITH\Downloads\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\PrivateChatWindow.baml
+C:\Users\THISHITH\Downloads\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\ChatRoomWindow.g.cs
+C:\Users\THISHITH\Downloads\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\FilePreviewWindow.g.cs
+C:\Users\THISHITH\Downloads\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\LobbyWindow.g.cs
+C:\Users\THISHITH\Downloads\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\MainWindow.g.cs
+C:\Users\THISHITH\Downloads\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\PrivateChatWindow.g.cs
+C:\Users\THISHITH\Downloads\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\App.g.cs
+C:\Users\THISHITH\Downloads\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient_MarkupCompile.cache
+C:\Users\THISHITH\Downloads\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient_MarkupCompile.lref
+C:\Users\THISHITH\Downloads\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\MainWindow.baml
+C:\Users\THISHITH\Downloads\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.g.resources
+C:\Users\THISHITH\Downloads\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.Properties.Resources.resources
+C:\Users\THISHITH\Downloads\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.csproj.GenerateResource.cache
+C:\Users\THISHITH\Downloads\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.csproj.CoreCompileInputs.cache
+C:\Users\THISHITH\Downloads\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLo.4A3FD25D.Up2Date
+C:\Users\THISHITH\Downloads\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.exe
+C:\Users\THISHITH\Downloads\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.pdb
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\bin\Debug\GamingLobbyClient.exe.config
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\bin\Debug\GamingLobbyClient.exe
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\bin\Debug\GamingLobbyClient.pdb
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\bin\Debug\GamingLobbyInterface.dll
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\bin\Debug\GamingLobbyInterface.pdb
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.csproj.AssemblyReference.cache
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.exe.config
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\ChatRoomWindow.baml
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\FilePreviewWindow.baml
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\LobbyWindow.baml
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\PrivateChatWindow.baml
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\ChatRoomWindow.g.cs
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\FilePreviewWindow.g.cs
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\LobbyWindow.g.cs
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\MainWindow.g.cs
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\PrivateChatWindow.g.cs
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\App.g.cs
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient_MarkupCompile.cache
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient_MarkupCompile.lref
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\MainWindow.baml
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.g.resources
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.Properties.Resources.resources
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.csproj.GenerateResource.cache
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.csproj.CoreCompileInputs.cache
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLo.4A3FD25D.Up2Date
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.exe
+F:\Curtin\2nd year 2nd sem\DC\Assignment 1\DC_Assignment1_21987469\MortalKombatLobby\GamingLobbyClient\obj\Debug\GamingLobbyClient.pdb
